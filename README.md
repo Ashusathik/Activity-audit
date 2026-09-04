@@ -33,28 +33,28 @@ The experiment procedure and required observations are based on the uploaded Exp
 
 ## 1.	AWS CloudTrail Dashboard 
 
-<img width="1917" height="1047" alt="image" src="https://github.com/user-attachments/assets/60274fa1-5512-49c8-96d5-492eb6fd7503" />
+<img width="1919" height="964" alt="Screenshot 2026-09-05 005100" src="https://github.com/user-attachments/assets/cf42affc-7916-4c69-87b5-2f177801ddf3" />
 
 
 ## 2.	CloudTrail Event History 
 
-<img width="1917" height="1042" alt="image" src="https://github.com/user-attachments/assets/b37d6889-919b-47c9-a424-bf7750196050" />
+<img width="1919" height="967" alt="Screenshot 2026-09-05 005126" src="https://github.com/user-attachments/assets/7215e71b-a83c-4730-957c-742119af8aa2" />
 
 
 ## 3.	CreateBucket Event Details 
 
-<img width="1917" height="1052" alt="image" src="https://github.com/user-attachments/assets/8ba87e32-2717-4289-9932-de243cfcf569" />
+<img width="1919" height="960" alt="Screenshot 2026-09-05 005218" src="https://github.com/user-attachments/assets/9c1ca331-a46e-4b80-b97c-69c00977ccbf" />
 
 
 ## 4.	Second CloudTrail Event Details 
 
-<img width="1917" height="1048" alt="image" src="https://github.com/user-attachments/assets/cd898252-6fba-485c-a5b6-5c493d5aa1b1" />
+<img width="1919" height="961" alt="Screenshot 2026-09-05 005339" src="https://github.com/user-attachments/assets/e45890bb-cb0f-43a1-a5ae-4d8a74c11af7" />
 
 
 ## 5.	Final Audit/Observation Table
 
-<img width="1917" height="1042" alt="image" src="https://github.com/user-attachments/assets/e122135d-f36f-4794-a3ff-bef64428db47" />
 
+<img width="1919" height="970" alt="Screenshot 2026-09-05 005513" src="https://github.com/user-attachments/assets/2f6ead5a-85ed-44d0-80e9-76bea3725a7f" />
 
 
 ### Result
